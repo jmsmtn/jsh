@@ -8,5 +8,9 @@
 #define MAIN_H
 
 #include <stdio.h>
+#include <stdlib.h>
+
+#include "globals.h" // global includes
+#include "debug.h"   // use for DEBUG_PRINTF
 
 #endif // MAIN_H
